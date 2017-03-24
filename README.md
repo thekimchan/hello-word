@@ -1,2 +1,3 @@
 # hello-word
-hurray
+
+trying my hands on github and such
